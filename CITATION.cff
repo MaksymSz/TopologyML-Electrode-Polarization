@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this code in your research, please cite it as follows:"
+- family-names: "Szemer"
+  given-names: "Maksym"
+  orcid: "https://orcid.org/0009-0005-0510-7610"
+- family-names: "Buchaniec"
+  given-names: "Szymon"
+  orcid: "https://orcid.org/0000-0002-2959-3044"
+- family-names: "Prokop"
+  given-names: "Tomasz"
+  orcid: "https://orcid.org/0000-0003-1898-571X"
+- family-names: "Brus"
+  given-names: "Grzegorz"
+  orcid: "https://orcid.org/0000-0003-4911-5880"
+title: "Topology-Informed Machine Learning for Efficient Prediction of Solid Oxide Fuel Cell Electrode Polarization"
+doi: 10.5281/zenodo.1234
+date-released: 2024-09-08
+url: "https://github.com/MaksymSz/tutoring"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Szemer"
+    given-names: "Maksym"
+    orcid: "https://orcid.org/0009-0005-0510-7610"
+  - family-names: "Buchaniec"
+    given-names: "Szymon"
+    orcid: "https://orcid.org/0000-0002-2959-3044"
+  - family-names: "Prokop"
+    given-names: "Marcin"
+    orcid: "https://orcid.org/0000-0003-1898-571X"
+  - family-names: "Brus"
+    given-names: "Grzegorz"
+    orcid: "https://orcid.org/0000-0003-4911-5880"
+  doi: "00.0000/00000"
+  journal: "Journal Title"
+  month: 9
+  start: 1
+  end: 10
+  title: "Topology-Informed Machine Learning for Efficient Prediction of Solid Oxide Fuel Cell Electrode Polarization"
+  issue: 1
+  volume: 1
+  year: 2021
