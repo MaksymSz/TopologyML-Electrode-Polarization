@@ -46,8 +46,8 @@ To get started, clone this repository and install the required dependencies.
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/username/repository-name.git
-cd repository-name
+git clone https://github.com/MaksymSz/Computational-Materials-publication.git
+cd Computational-Materials-publication
 ```
 ### Dependencies
 Install the required packages using pip:
