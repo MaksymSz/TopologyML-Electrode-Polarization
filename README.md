@@ -62,15 +62,14 @@ Data can be obtained from public [repository](https://zenodo.org/records/1373182
 ## Citations
 If you use this code in your research, please cite our paper as follows:
 ```bib
-@article{Name2024,
-  title={Topology-Informed Machine Learning for Efficient Prediction of Solid Oxide Fuel Cell Electrode Polarization},
-  author={Szemer, Maksym and Buchaniec, Szymon and Prokop, Tomasz and Brus, Grzegorz},
-  journal={Journal name},
-  volume={XX},
-  number={X},
-  pages={XX-XX},
-  year={2024},
-  publisher={Publisher Name}
+@misc{szemer2024topologyinformedmachinelearningefficient,
+      title={Topology-Informed Machine Learning for Efficient Prediction of Solid Oxide Fuel Cell Electrode Polarization}, 
+      author={Maksym Szemer and Szymon Buchaniec and Tomasz Prokop and Grzegorz Brus},
+      year={2024},
+      eprint={2410.05307},
+      archivePrefix={arXiv},
+      primaryClass={cond-mat.mtrl-sci},
+      url={https://arxiv.org/abs/2410.05307}, 
 }
 ```
 
