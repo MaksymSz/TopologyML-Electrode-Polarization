@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10+-brightgreen.svg)
 
 ## Overview
-This repository contains the code accompanying the paper **[Topology-Informed Machine Learning for Efficient Prediction of Solid Oxide Fuel Cell Electrode Polarization](https://www.nature.com/npjcompumats/)** by Maksym Szemer, Szymon Buchaniec, Marcin Prokop and Grzegorz Brus, published in *[npj Computational Materials](https://www.nature.com/npjcompumats/)*.
+This repository contains the code accompanying the paper **[Topology-Informed Machine Learning for Efficient Prediction of Solid Oxide Fuel Cell Electrode Polarization](https://arxiv.org/abs/2410.05307)** by Maksym Szemer, Szymon Buchaniec, Marcin Prokop and Grzegorz Brus.
 
 ## Table of Contents
 
