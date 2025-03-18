@@ -14,9 +14,9 @@ authors:
     given-names: "Grzegorz"
     orcid: "https://orcid.org/0000-0003-4911-5880"
 title: "Topology-Informed Machine Learning for Efficient Prediction of Solid Oxide Fuel Cell Electrode Polarization"
-version: "1.0.0"
-doi: "10.1016/j.egyai.2025.100495"
-date-released: "2024-09-08"
+version: 1.0.0
+doi: 10.1016/j.egyai.2025.100495
+date-released: 2025-03-18
 url: "https://www.sciencedirect.com/science/article/pii/S2666546825000278"
 keywords:
   - Fuel cell
